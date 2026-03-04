@@ -1,0 +1,20 @@
+{
+  "name": "backenddeploy",
+  "version": "1.0.0",
+  "description": "My first javascript backend deploy",
+  "keywords": [
+    "node",
+    "deploy"
+  ],
+  "license": "ISC",
+  "author": "Sarjak Sunar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
